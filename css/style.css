@@ -1,1 +1,38 @@
 /*Hoja de estilos para contrador*/
+body{
+    font-family: cursive;
+    background-color: rgb(179, 197, 245);
+
+}
+
+h2{
+
+}
+
+/*Selectores de clase*/
+
+.year{
+
+}
+
+.countdown{
+
+}
+
+/*Selectores de ID*/
+
+.countdown #day{
+
+}
+
+.countdown #hour{
+    
+}
+
+.countdown #minute{
+    
+}
+
+.countdown #second{
+    
+}
